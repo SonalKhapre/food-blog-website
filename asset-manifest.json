@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/food-blog-website/static/css/main.3b1e44f8.css",
+    "main.js": "/food-blog-website/static/js/main.a1aa6eac.js",
+    "static/js/787.253b28fd.chunk.js": "/food-blog-website/static/js/787.253b28fd.chunk.js",
+    "static/media/Group 289.png": "/food-blog-website/static/media/Group 289.ffb35526309a95f55b86.png",
+    "static/media/Mask Group@2x.png": "/food-blog-website/static/media/Mask Group@2x.5168d336ea223828e394.png",
+    "static/media/image2.png": "/food-blog-website/static/media/image2.3e07c25a5191227c03b6.png",
+    "static/media/image1.png": "/food-blog-website/static/media/image1.b974ccac861bac7b2df4.png",
+    "static/media/image3.png": "/food-blog-website/static/media/image3.ad22cf41ce7abec71fcb.png",
+    "static/media/image4.png": "/food-blog-website/static/media/image4.d3f0fc5ed3d7e55bfdca.png",
+    "static/media/image5.png": "/food-blog-website/static/media/image5.21b2a52f636f7aa0374f.png",
+    "static/media/image6.png": "/food-blog-website/static/media/image6.603bff255e12af58ebc0.png",
+    "static/media/Vector 1.png": "/food-blog-website/static/media/Vector 1.cbccf86c8e76ad4cd096.png",
+    "static/media/logo.png": "/food-blog-website/static/media/logo.e1e08f6109e3e2d260ef.png",
+    "static/media/logoimg.png": "/food-blog-website/static/media/logoimg.e1e08f6109e3e2d260ef.png",
+    "static/media/slick.svg": "/food-blog-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/food-blog-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/food-blog-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/food-blog-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/food-blog-website/index.html",
+    "main.3b1e44f8.css.map": "/food-blog-website/static/css/main.3b1e44f8.css.map",
+    "main.a1aa6eac.js.map": "/food-blog-website/static/js/main.a1aa6eac.js.map",
+    "787.253b28fd.chunk.js.map": "/food-blog-website/static/js/787.253b28fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b1e44f8.css",
+    "static/js/main.a1aa6eac.js"
+  ]
+}
