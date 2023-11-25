@@ -1,0 +1,68 @@
+.mainContainer {
+  margin-top: 1100px;
+  margin-left: 100px;
+}
+.mainContainer h3 {
+  color: #0e2368;
+  font: "Poppins";
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 27px;
+}
+
+.imgdiv img {
+  width: 326px;
+  height: 257px;
+  border-radius: 21px;
+}
+.flevdiv {
+  display: flex;
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+  width: 381px;
+  height: 554px;
+  border: solid 1px #93a2d361;
+  border-radius: 22px;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+.review {
+  margin-top: 20px;
+  font: "Open-Sans";
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 27px;
+  color: #444957;
+}
+.article .name {
+  font: 'Poppins';
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #0e2368;
+}
+.article {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.article button {
+  width: 120px;
+  height: 36px;
+  font-weight: 550;
+  color: #424961;
+  padding: 0px 10px;
+  border: 1.2px solid #424961;
+  background: white;
+  border-radius: 21px;
+  gap: 10px;
+    margin-top: 20px;
+ 
+}
